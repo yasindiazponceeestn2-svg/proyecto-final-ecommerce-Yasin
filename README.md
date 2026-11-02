@@ -64,4 +64,4 @@ El proyecto está organizado en **secciones claras y bien definidas**:
   - **Yamaha YZF-R1** — La referencia de MotoGP
   - **Kawasaki Ninja ZX-6R** — Leyenda de las pistas
   - **Honda CBR 600RR** — Fiabilidad y
-# proyecto-final-ecommerce-Yasin
+# proyecto-final-ecommerce-YasinD
